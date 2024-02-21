@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "cc7b2b490f3544a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7370dae0dd4971b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bface080e88fea65",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e254ba317aa596d",
+    "type": "split",
+    "children": [
+      {
+        "id": "74ab3b9097b1cbb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef31b015078704d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d4e4fcc7477ac22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "818629bb77cced34",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "a7ca694595501634",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1ab1dd9a952a81a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43438c9515e66bff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2964767859a4a73b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5acf66c7a36ffb44",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a155031caad0d04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "60b1f3e25d402716",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "7c9ef0ffe2b4564a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c04d6eee53497c67",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b643f800cc87c79b",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:开始漫游笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "templates:插入模板": false,
+      "obsidian-importer:Open Importer": false,
+      "workspaces:管理工作区布局": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "command-palette:打开命令面板": false,
+      "graph:查看关系图谱": false
+    }
+  },
+  "active": "bface080e88fea65",
+  "lastOpenFiles": [
+    "Python/Python：3 基本数据类型.md",
+    "Python/Python王者归来.md",
+    "Python/Python.md",
+    "Web/Web开发之HTML.md",
+    "Web/Web.md",
+    "Welcome.md",
+    "Docker/Docker.md",
+    "Docker/04 必备实践和案例.md",
+    "Docker/02 服务器准备.md",
+    "Emoji/😀😁emoji表情的支持.md",
+    "半月板/半月板记录.md",
+    "English/English.md",
+    "English/15篇文章贯通六级大纲6395个词汇.md",
+    "English/Gardening.md",
+    "Python/计算机基础-多任务、进程、线程.md",
+    "Python/Python：4 基本输入与输出.md",
+    "Python/Python：1 基本概念.md",
+    "Python/Python：17 迭代器和生成器.md",
+    "Python/Python：10 集合（Set）.md",
+    "Python/Python：15 程序除错与异常处理.md",
+    "Python/Python：14 文件的读取与写入.md",
+    "Python/Python：13 设计与引用模块.md",
+    "Python/Python：12 类-面向对象的程序设计.md",
+    "Python/Python：11 函数设计.md",
+    "Python/Python：16 正则表达式（Regular Express.md",
+    "Python/Python：16 正则表达式（Regular Express）.md",
+    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级/62d153e3aac22ae87693349cd5357e74_MD5.jpg",
+    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级/e3a372cb31a70d12d3505b6994c45870_MD5.jpg",
+    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级/b22ab82aaac43c1d5a1f5c547197846e_MD5.jpg",
+    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级/9febffe324ec71aabe981e5df5a8a79d_MD5.jpg",
+    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级/bdc0606ec8d4d262c45d6bb5e247dd44_MD5.jpg",
+    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级/57858bb31d63d40a01504bdaf39d2c37_MD5.jpg",
+    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级/f17e24ec2050a911348e6bba5885cd1f_MD5.jpg",
+    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级/f346bcfb7ce8856f75bcc0ea0253c7e5_MD5.jpg",
+    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级/060e227be3d860b5fa57b9bf203637ae_MD5.jpg",
+    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级/073c5478107c6f3f3f664e1af7ca183d_MD5.jpg",
+    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级",
+    "C#/assets",
+    "Web",
+    "Python/assets/Web编程之网络基础",
+    "Python/assets",
+    "English",
+    "C#",
+    "Python",
+    "Rust",
+    "VIM",
+    "未命名.canvas"
+  ]
+}
