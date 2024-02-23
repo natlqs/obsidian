@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f7370dae0dd4971b",
+        "id": "bf6cd26c60091d85",
         "type": "tabs",
         "children": [
           {
-            "id": "bface080e88fea65",
+            "id": "a46b2cdafea36691",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C#/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "a7ca694595501634",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C#/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C#/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C#/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级.md"
+              }
             }
           },
           {
@@ -137,27 +147,53 @@
         "currentTab": 3
       },
       {
-        "id": "7c9ef0ffe2b4564a",
+        "id": "6adb3fb9a5c6f5dd",
         "type": "tabs",
         "children": [
           {
-            "id": "c04d6eee53497c67",
+            "id": "eb0e87057810b730",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "C#/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.13168724279835453,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "c491a7ee07a7f26a",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "b643f800cc87c79b",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,14 +213,33 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "bface080e88fea65",
+  "active": "eb0e87057810b730",
   "lastOpenFiles": [
-    "Python/Python：3 基本数据类型.md",
-    "Python/Python王者归来.md",
+    "C#/Csharp.md",
+    "C#/Csharp操作SQLite数据库.md",
+    "C#/assets/Csharp操作SQLite数据库/0b3264e9682d5d4a19e027a539386280_MD5.jpg",
+    "C#/assets/Csharp操作SQLite数据库/2259872a83a9fe391b058cc5f0ed550d_MD5.jpg",
+    "C#/assets/Csharp操作SQLite数据库/8ef6892be1e317dec3948a4e7f2f3845_MD5.jpg",
+    "C#/assets/Csharp操作SQLite数据库/388ff5c2c87a46ae21742dc5159afdb7_MD5.jpg",
+    "C#/assets/Csharp操作SQLite数据库/b764931bb1143dcfd07cac132782a071_MD5.jpg",
+    "C#/assets/Csharp操作SQLite数据库/d00d105f8bc9e30cd43adcacd6843d0f_MD5.jpg",
+    "C#/assets/Csharp操作SQLite数据库/535a89c115945b87e4890578e8e4e61a_MD5.gif",
+    "C#/assets/Csharp操作SQLite数据库/27169f0d51965b5e6fbb9f1126261306_MD5.gif",
+    "C#/assets/Csharp操作SQLite数据库",
+    "C#/Winform程序设计与实践（廉玉颗）.md",
+    "C#/Winform程序设计与实践：第5章 输入与输出.md",
+    "Welcome.md",
+    "C#/assets/Winform程序设计与实践：第5章 输入与输出/fba2374f2ea512094f13711fa0b996fe_MD5.jpeg",
+    "C#/assets/Pasted image 20240222140543.png",
+    "C.md",
+    "C#/assets/Winform程序设计与实践：第5章 输入与输出",
     "Python/Python.md",
+    "Python/Python王者归来.md",
+    "Python/Python：Pandas.md",
+    "C#/assets/Winform程序设计与实践（廉玉颗）",
+    "Python/Python：3 基本数据类型.md",
     "Web/Web开发之HTML.md",
     "Web/Web.md",
-    "Welcome.md",
     "Docker/Docker.md",
     "Docker/04 必备实践和案例.md",
     "Docker/02 服务器准备.md",
@@ -198,23 +253,6 @@
     "Python/Python：1 基本概念.md",
     "Python/Python：17 迭代器和生成器.md",
     "Python/Python：10 集合（Set）.md",
-    "Python/Python：15 程序除错与异常处理.md",
-    "Python/Python：14 文件的读取与写入.md",
-    "Python/Python：13 设计与引用模块.md",
-    "Python/Python：12 类-面向对象的程序设计.md",
-    "Python/Python：11 函数设计.md",
-    "Python/Python：16 正则表达式（Regular Express.md",
-    "Python/Python：16 正则表达式（Regular Express）.md",
-    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级/62d153e3aac22ae87693349cd5357e74_MD5.jpg",
-    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级/e3a372cb31a70d12d3505b6994c45870_MD5.jpg",
-    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级/b22ab82aaac43c1d5a1f5c547197846e_MD5.jpg",
-    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级/9febffe324ec71aabe981e5df5a8a79d_MD5.jpg",
-    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级/bdc0606ec8d4d262c45d6bb5e247dd44_MD5.jpg",
-    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级/57858bb31d63d40a01504bdaf39d2c37_MD5.jpg",
-    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级/f17e24ec2050a911348e6bba5885cd1f_MD5.jpg",
-    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级/f346bcfb7ce8856f75bcc0ea0253c7e5_MD5.jpg",
-    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级/060e227be3d860b5fa57b9bf203637ae_MD5.jpg",
-    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级/073c5478107c6f3f3f664e1af7ca183d_MD5.jpg",
     "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级",
     "C#/assets",
     "Web",
@@ -222,9 +260,6 @@
     "Python/assets",
     "English",
     "C#",
-    "Python",
-    "Rust",
-    "VIM",
     "未命名.canvas"
   ]
 }
