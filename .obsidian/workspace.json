@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bf6cd26c60091d85",
+        "id": "dcc62ca88d55dce3",
         "type": "tabs",
         "children": [
           {
-            "id": "a46b2cdafea36691",
+            "id": "bfed0ade46ad9352",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级.md",
+                "file": "C#/WPF从小白到大佬.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "a7ca694595501634",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级.md",
+                "file": "C#/WPF从小白到大佬.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级.md",
+                "file": "C#/WPF从小白到大佬.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级.md"
+                "file": "C#/WPF从小白到大佬.md"
               }
             }
           },
@@ -143,8 +142,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "6adb3fb9a5c6f5dd",
@@ -156,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C#/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级.md",
+                "file": "C#/WPF从小白到大佬.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -193,7 +191,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,53 +212,53 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "eb0e87057810b730",
+  "active": "bfed0ade46ad9352",
   "lastOpenFiles": [
+    "C#/WPF从小白到大佬：控件父类.md",
+    "C#/WPF从小白到大佬.md",
+    "C#/WPF从小白到大佬：控件父类：：FrameworkElement类.md",
+    "C#/assets/WPF从小白到大佬：控件父类：：FrameworkElement类/27a383d360e13525e184b9c735087e67_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：控件父类：：FrameworkElement类/6fbb357e3242781aadc559b84566df13_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：控件父类：：FrameworkElement类",
+    "C#/WPF从小白到大佬：控件父类：：UIElement类.md",
+    "C#/assets/Pasted image 20240226163908.png",
+    "C#/assets/WPF从小白到大佬：控件父类：：UIElement类/9316f7eb5be8462366d9f1793003fda8_MD5.jpeg",
+    "C#/assets/WPF从小白到大佬：控件父类：：UIElement类",
+    "C#/assets/Pasted image 20240226162206.png",
+    "C#/WPF从小白到大佬：控件父类：：Visual类.md",
+    "C#/WPF从小白到大佬：控件父类：：DependencyObject类.md",
+    "C#/WPF从小白到大佬：控件父类：：DispacherObject类.md",
+    "C#/assets/WPF从小白到大佬：控件父类：：DispacherObject类/6202d27d2107557424a81fbf180a8c97_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：控件父类：：DispacherObject类",
+    "C#/WPF从小白到大佬：控件父类：：控件的父类们.md",
+    "C#/assets/WPF从小白到大佬：控件父类：：控件的父类们/6fbb357e3242781aadc559b84566df13_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：控件父类：：控件的父类们",
+    "C#/WPF从小白到大佬：入门.md",
+    "C#/WPF从小白到大佬：入门：：Window窗体的组成.md",
+    "C#/assets/WPF从小白到大佬：入门：：Window窗体的组成/12033298843d4ab8d2d83a74e499564b_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：入门：：Window窗体的组成",
     "C#/Csharp.md",
-    "C#/Csharp操作SQLite数据库.md",
-    "C#/assets/Csharp操作SQLite数据库/0b3264e9682d5d4a19e027a539386280_MD5.jpg",
-    "C#/assets/Csharp操作SQLite数据库/2259872a83a9fe391b058cc5f0ed550d_MD5.jpg",
-    "C#/assets/Csharp操作SQLite数据库/8ef6892be1e317dec3948a4e7f2f3845_MD5.jpg",
-    "C#/assets/Csharp操作SQLite数据库/388ff5c2c87a46ae21742dc5159afdb7_MD5.jpg",
-    "C#/assets/Csharp操作SQLite数据库/b764931bb1143dcfd07cac132782a071_MD5.jpg",
-    "C#/assets/Csharp操作SQLite数据库/d00d105f8bc9e30cd43adcacd6843d0f_MD5.jpg",
-    "C#/assets/Csharp操作SQLite数据库/535a89c115945b87e4890578e8e4e61a_MD5.gif",
-    "C#/assets/Csharp操作SQLite数据库/27169f0d51965b5e6fbb9f1126261306_MD5.gif",
-    "C#/assets/Csharp操作SQLite数据库",
-    "C#/Winform程序设计与实践（廉玉颗）.md",
-    "C#/Winform程序设计与实践：第5章 输入与输出.md",
     "Welcome.md",
-    "C#/assets/Winform程序设计与实践：第5章 输入与输出/fba2374f2ea512094f13711fa0b996fe_MD5.jpeg",
-    "C#/assets/Pasted image 20240222140543.png",
-    "C.md",
-    "C#/assets/Winform程序设计与实践：第5章 输入与输出",
-    "Python/Python.md",
-    "Python/Python王者归来.md",
-    "Python/Python：Pandas.md",
-    "C#/assets/Winform程序设计与实践（廉玉颗）",
-    "Python/Python：3 基本数据类型.md",
-    "Web/Web开发之HTML.md",
-    "Web/Web.md",
+    "C#/WPF从小白到大佬：入门：：Window窗体的生命周期.md",
+    "C#/assets/WPF从小白到大佬：入门：：Window窗体的生命周期/559ce7639548fe2b18c4928f5052c0e9_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：入门：：Window窗体的生命周期",
+    "C#/WPF从小白到大佬：入门：：App.xaml与Application类.md",
+    "C#/WPF从小白到大佬：入门：：Application的生命周期.md",
+    "C#/WPF从小白到大佬：前言：：WPF怎么学.md",
+    "C#/WPF从小白到大佬：前言.md",
+    "C#/WPF从小白到大佬：前言：：WPF概述.md",
+    "C#/WPF从小白到大佬：前言：：WPF起源.md",
+    "C#/assets/WPF从小白到大佬：前言：：WPF怎么学/75c91c92bd35c0f7e05f2b800e632be9_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：前言：：WPF怎么学",
+    "C#/assets/WPF从小白到大佬：前言：：WPF概述",
     "Docker/Docker.md",
-    "Docker/04 必备实践和案例.md",
-    "Docker/02 服务器准备.md",
-    "Emoji/😀😁emoji表情的支持.md",
-    "半月板/半月板记录.md",
-    "English/English.md",
-    "English/15篇文章贯通六级大纲6395个词汇.md",
-    "English/Gardening.md",
-    "Python/计算机基础-多任务、进程、线程.md",
-    "Python/Python：4 基本输入与输出.md",
-    "Python/Python：1 基本概念.md",
-    "Python/Python：17 迭代器和生成器.md",
-    "Python/Python：10 集合（Set）.md",
-    "C#/assets/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级",
-    "C#/assets",
-    "Web",
-    "Python/assets/Web编程之网络基础",
-    "Python/assets",
-    "English",
-    "C#",
+    "Python/Python：12 类-面向对象的程序设计.md",
+    "English/Sex Role Stereotypes.md",
+    "English/Chinese-Americaln Relations A History II.md",
+    "C#/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级.md",
+    "English/Let's Dress Up——It's Halloween.md",
+    "Python/assets/python：MySQL高级进阶",
+    "C#/assets/Csharp操作SQLite数据库",
     "未命名.canvas"
   ]
 }
