@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/WPF从小白到大佬：模板：：ControlTemplate控件模板.md",
+                "file": "C#/WPF从小白到大佬：模板.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/WPF从小白到大佬：模板：：ControlTemplate控件模板.md",
+                "file": "C#/WPF从小白到大佬：模板.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/WPF从小白到大佬：模板：：ControlTemplate控件模板.md",
+                "file": "C#/WPF从小白到大佬：模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/WPF从小白到大佬：模板：：ControlTemplate控件模板.md"
+                "file": "C#/WPF从小白到大佬：模板.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C#/WPF从小白到大佬：模板：：ControlTemplate控件模板.md",
+                "file": "C#/WPF从小白到大佬：模板.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,52 +215,51 @@
   },
   "active": "bfed0ade46ad9352",
   "lastOpenFiles": [
+    "C#/WPF从小白到大佬：模板：：Button的模板样式实战.md",
+    "C#/assets/WPF从小白到大佬：模板：：Button的模板样式实战/5245268f7f11ea048fdbb8cf91067852_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：模板：：Button的模板样式实战",
     "C#/WPF从小白到大佬：模板.md",
+    "C#/WPF从小白到大佬：模板：：ListBox模板样式实战.md",
+    "C#/assets/WPF从小白到大佬：模板：：ListBox模板样式实战/b0692680601725fafe4da8baac8a0c73_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：模板：：ListBox模板样式实战",
+    "C#/WPF从小白到大佬：模板：：ListBox的ItemContainerStyle.md",
+    "C#/assets/WPF从小白到大佬：模板：：ListBox的ItemContainerStyle/52db1605001e196ded75ae973345c010_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：模板：：ListBox的ItemContainerStyle/923b6cfac5092e5a33ff77e6f8fadb7b_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：模板：：ListBox的ItemContainerStyle/b65ed444288499392dfbe6cf76aa3480_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：模板：：ListBox的ItemContainerStyle",
+    "C#/WPF从小白到大佬：模板：：ItemsPanelTempate元素模板.md",
+    "C#/assets/WPF从小白到大佬：模板：：ItemsPanelTempate元素模板/6e3b2b96e0404c1327143203bd91921c_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：模板：：ItemsPanelTempate元素模板",
+    "C#/WPF从小白到大佬：模板：：DataTemplate数据模板.md",
+    "C#/assets/WPF从小白到大佬：模板：：DataTemplate数据模板/77e0ab4ba6061ec25a557ae267a6c1f4_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：模板：：DataTemplate数据模板/27b73391355114157c81448ad83c649d_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：模板：：DataTemplate数据模板",
+    "C#/WPF从小白到大佬：模板：：TemplateBinding模板绑定.md",
+    "C#/assets/WPF从小白到大佬：模板：：TemplateBinding模板绑定/ce87ddf6933ab49f04060bbfda3b8e3b_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：模板：：TemplateBinding模板绑定/b71bc93f24ca0340896b2ba6a0e757ed_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：模板：：TemplateBinding模板绑定",
+    "C#/WPF从小白到大佬：模板：：ControlTemplate的触发器.md",
+    "C#/assets/WPF从小白到大佬：模板：：ControlTemplate的触发器",
     "C#/WPF从小白到大佬：模板：：ControlTemplate控件模板.md",
+    "C#/assets/WPF从小白到大佬：模板：：ControlTemplate控件模板",
     "C#/WPF从小白到大佬：模板：：LogicalTree逻辑树.md",
     "C#/WPF从小白到大佬：模板：：VisualTree可视化树.md",
-    "C#/assets/WPF从小白到大佬：模板：：VisualTree可视化树/d72bcdd5b5a4d8400328559c9708862e_MD5.jpg",
     "C#/assets/WPF从小白到大佬：模板：：VisualTree可视化树",
     "C#/WPF从小白到大佬.md",
     "C#/WPF从小白到大佬：集合控件.md",
     "C#/WPF从小白到大佬：集合控件：：TabControl控件.md",
-    "C#/assets/WPF从小白到大佬：模板：：LogicalTree逻辑树/edf82427c214913a975e2567c948d280_MD5.jpg",
     "C#/assets/WPF从小白到大佬：模板：：LogicalTree逻辑树",
     "C#/WPF从小白到大佬：模板：：什么是模板.md",
     "C#/WPF从小白到大佬：样式.md",
     "C#/WPF从小白到大佬：样式：：EventTrigger事件触发器.md",
-    "C#/assets/WPF从小白到大佬：样式：：EventTrigger事件触发器/ca82ded908bf45b652262c1955c35d92_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：样式：：EventTrigger事件触发器/4015e2fd79f1b60d54f3aacacda72a0d_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：样式：：EventTrigger事件触发器",
     "C#/WPF从小白到大佬：样式：：MultiDataTrigger数据触发器.md",
-    "C#/assets/WPF从小白到大佬：样式：：MultiDataTrigger数据触发器/a93ef3eaf80c94a5e0db1f8652189486_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：样式：：MultiDataTrigger数据触发器",
     "C#/WPF从小白到大佬：样式：：DataTrigger数据触发器.md",
-    "C#/assets/WPF从小白到大佬：样式：：DataTrigger数据触发器/d0ac2c35971c0a20f8fb29b5cb2ceda8_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：样式：：DataTrigger数据触发器/1133717ad7bc893d0ca07ebe2d35d5c3_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：样式：：DataTrigger数据触发器",
     "C#/WPF从小白到大佬：样式：：MultiTrigger多条件触发器.md",
-    "C#/assets/WPF从小白到大佬：样式：：MultiTrigger多条件触发器/423d95c4cc33068c4b897ebbefb2c44b_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：样式：：MultiTrigger多条件触发器",
     "C#/WPF从小白到大佬：样式：：Trigger触发器.md",
-    "C#/assets/WPF从小白到大佬：样式：：Trigger触发器/6a72363327c6195d62fbcfbe43b53329_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：样式：：Trigger触发器",
     "C#/WPF从小白到大佬：样式：：ResourceDictionary资源字典.md",
-    "C#/assets/WPF从小白到大佬：样式：：ResourceDictionary资源字典/8dc4a023791fbe552dab503994f4460f_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：样式：：ResourceDictionary资源字典",
     "C#/WPF从小白到大佬：样式：：Resource资源.md",
     "Python/python：获取文件夹或文件路径.md",
     "C#/WPF从小白到大佬：样式：：WPF样式概述.md",
-    "C#/assets/WPF从小白到大佬：样式：：WPF样式概述",
-    "C#/WPF从小白到大佬：图形控件.md",
-    "C#/WPF从小白到大佬：图形控件：：Path路径.md",
-    "C#/assets/WPF从小白到大佬：图形控件：：Path路径",
-    "C#/WPF从小白到大佬：图形控件：：Polygon多边形.md",
-    "C#/WPF从小白到大佬：图形控件：：Polyline折线.md",
-    "C#/WPF从小白到大佬：图形控件：：Rectangle矩形.md",
-    "C#/WPF从小白到大佬：图形控件：：Line线段.md",
-    "C#/WPF从小白到大佬：图形控件：：Elipse椭圆.md",
-    "C#/WPF从小白到大佬：图形控件：：Shape概述.md",
     "未命名.canvas"
   ]
 }
