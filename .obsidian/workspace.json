@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/WPF从小白到大佬.md",
+                "file": "C#/WPF从小白到大佬：模板：：ControlTemplate控件模板.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 478.5,
+    "collapsed": true
   },
   "right": {
     "id": "a7ca694595501634",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/WPF从小白到大佬.md",
+                "file": "C#/WPF从小白到大佬：模板：：ControlTemplate控件模板.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/WPF从小白到大佬.md",
+                "file": "C#/WPF从小白到大佬：模板：：ControlTemplate控件模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/WPF从小白到大佬.md"
+                "file": "C#/WPF从小白到大佬：模板：：ControlTemplate控件模板.md"
               }
             }
           },
@@ -154,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C#/WPF从小白到大佬.md",
+                "file": "C#/WPF从小白到大佬：模板：：ControlTemplate控件模板.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,51 +215,52 @@
   },
   "active": "bfed0ade46ad9352",
   "lastOpenFiles": [
-    "C#/WPF从小白到大佬：控件父类.md",
+    "C#/WPF从小白到大佬：模板.md",
+    "C#/WPF从小白到大佬：模板：：ControlTemplate控件模板.md",
+    "C#/WPF从小白到大佬：模板：：LogicalTree逻辑树.md",
+    "C#/WPF从小白到大佬：模板：：VisualTree可视化树.md",
+    "C#/assets/WPF从小白到大佬：模板：：VisualTree可视化树/d72bcdd5b5a4d8400328559c9708862e_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：模板：：VisualTree可视化树",
     "C#/WPF从小白到大佬.md",
-    "C#/WPF从小白到大佬：控件父类：：FrameworkElement类.md",
-    "C#/assets/WPF从小白到大佬：控件父类：：FrameworkElement类/27a383d360e13525e184b9c735087e67_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：控件父类：：FrameworkElement类/6fbb357e3242781aadc559b84566df13_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：控件父类：：FrameworkElement类",
-    "C#/WPF从小白到大佬：控件父类：：UIElement类.md",
-    "C#/assets/Pasted image 20240226163908.png",
-    "C#/assets/WPF从小白到大佬：控件父类：：UIElement类/9316f7eb5be8462366d9f1793003fda8_MD5.jpeg",
-    "C#/assets/WPF从小白到大佬：控件父类：：UIElement类",
-    "C#/assets/Pasted image 20240226162206.png",
-    "C#/WPF从小白到大佬：控件父类：：Visual类.md",
-    "C#/WPF从小白到大佬：控件父类：：DependencyObject类.md",
-    "C#/WPF从小白到大佬：控件父类：：DispacherObject类.md",
-    "C#/assets/WPF从小白到大佬：控件父类：：DispacherObject类/6202d27d2107557424a81fbf180a8c97_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：控件父类：：DispacherObject类",
-    "C#/WPF从小白到大佬：控件父类：：控件的父类们.md",
-    "C#/assets/WPF从小白到大佬：控件父类：：控件的父类们/6fbb357e3242781aadc559b84566df13_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：控件父类：：控件的父类们",
-    "C#/WPF从小白到大佬：入门.md",
-    "C#/WPF从小白到大佬：入门：：Window窗体的组成.md",
-    "C#/assets/WPF从小白到大佬：入门：：Window窗体的组成/12033298843d4ab8d2d83a74e499564b_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：入门：：Window窗体的组成",
-    "C#/Csharp.md",
-    "Welcome.md",
-    "C#/WPF从小白到大佬：入门：：Window窗体的生命周期.md",
-    "C#/assets/WPF从小白到大佬：入门：：Window窗体的生命周期/559ce7639548fe2b18c4928f5052c0e9_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：入门：：Window窗体的生命周期",
-    "C#/WPF从小白到大佬：入门：：App.xaml与Application类.md",
-    "C#/WPF从小白到大佬：入门：：Application的生命周期.md",
-    "C#/WPF从小白到大佬：前言：：WPF怎么学.md",
-    "C#/WPF从小白到大佬：前言.md",
-    "C#/WPF从小白到大佬：前言：：WPF概述.md",
-    "C#/WPF从小白到大佬：前言：：WPF起源.md",
-    "C#/assets/WPF从小白到大佬：前言：：WPF怎么学/75c91c92bd35c0f7e05f2b800e632be9_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：前言：：WPF怎么学",
-    "C#/assets/WPF从小白到大佬：前言：：WPF概述",
-    "Docker/Docker.md",
-    "Python/Python：12 类-面向对象的程序设计.md",
-    "English/Sex Role Stereotypes.md",
-    "English/Chinese-Americaln Relations A History II.md",
-    "C#/Csharp - BLL、DAL、IDAL、Model、DBUtility、DALFactory层级.md",
-    "English/Let's Dress Up——It's Halloween.md",
-    "Python/assets/python：MySQL高级进阶",
-    "C#/assets/Csharp操作SQLite数据库",
+    "C#/WPF从小白到大佬：集合控件.md",
+    "C#/WPF从小白到大佬：集合控件：：TabControl控件.md",
+    "C#/assets/WPF从小白到大佬：模板：：LogicalTree逻辑树/edf82427c214913a975e2567c948d280_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：模板：：LogicalTree逻辑树",
+    "C#/WPF从小白到大佬：模板：：什么是模板.md",
+    "C#/WPF从小白到大佬：样式.md",
+    "C#/WPF从小白到大佬：样式：：EventTrigger事件触发器.md",
+    "C#/assets/WPF从小白到大佬：样式：：EventTrigger事件触发器/ca82ded908bf45b652262c1955c35d92_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：样式：：EventTrigger事件触发器/4015e2fd79f1b60d54f3aacacda72a0d_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：样式：：EventTrigger事件触发器",
+    "C#/WPF从小白到大佬：样式：：MultiDataTrigger数据触发器.md",
+    "C#/assets/WPF从小白到大佬：样式：：MultiDataTrigger数据触发器/a93ef3eaf80c94a5e0db1f8652189486_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：样式：：MultiDataTrigger数据触发器",
+    "C#/WPF从小白到大佬：样式：：DataTrigger数据触发器.md",
+    "C#/assets/WPF从小白到大佬：样式：：DataTrigger数据触发器/d0ac2c35971c0a20f8fb29b5cb2ceda8_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：样式：：DataTrigger数据触发器/1133717ad7bc893d0ca07ebe2d35d5c3_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：样式：：DataTrigger数据触发器",
+    "C#/WPF从小白到大佬：样式：：MultiTrigger多条件触发器.md",
+    "C#/assets/WPF从小白到大佬：样式：：MultiTrigger多条件触发器/423d95c4cc33068c4b897ebbefb2c44b_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：样式：：MultiTrigger多条件触发器",
+    "C#/WPF从小白到大佬：样式：：Trigger触发器.md",
+    "C#/assets/WPF从小白到大佬：样式：：Trigger触发器/6a72363327c6195d62fbcfbe43b53329_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：样式：：Trigger触发器",
+    "C#/WPF从小白到大佬：样式：：ResourceDictionary资源字典.md",
+    "C#/assets/WPF从小白到大佬：样式：：ResourceDictionary资源字典/8dc4a023791fbe552dab503994f4460f_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：样式：：ResourceDictionary资源字典",
+    "C#/WPF从小白到大佬：样式：：Resource资源.md",
+    "Python/python：获取文件夹或文件路径.md",
+    "C#/WPF从小白到大佬：样式：：WPF样式概述.md",
+    "C#/assets/WPF从小白到大佬：样式：：WPF样式概述",
+    "C#/WPF从小白到大佬：图形控件.md",
+    "C#/WPF从小白到大佬：图形控件：：Path路径.md",
+    "C#/assets/WPF从小白到大佬：图形控件：：Path路径",
+    "C#/WPF从小白到大佬：图形控件：：Polygon多边形.md",
+    "C#/WPF从小白到大佬：图形控件：：Polyline折线.md",
+    "C#/WPF从小白到大佬：图形控件：：Rectangle矩形.md",
+    "C#/WPF从小白到大佬：图形控件：：Line线段.md",
+    "C#/WPF从小白到大佬：图形控件：：Elipse椭圆.md",
+    "C#/WPF从小白到大佬：图形控件：：Shape概述.md",
     "未命名.canvas"
   ]
 }
