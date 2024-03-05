@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dcc62ca88d55dce3",
+        "id": "2745d5e8ba42f09a",
         "type": "tabs",
         "children": [
           {
-            "id": "bfed0ade46ad9352",
+            "id": "80e6dab0c559093f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/WPF从小白到大佬：模板.md",
+                "file": "C#/WPF从小白到大佬.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 478.5,
-    "collapsed": true
+    "width": 313.5
   },
   "right": {
     "id": "a7ca694595501634",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/WPF从小白到大佬：模板.md",
+                "file": "C#/WPF从小白到大佬.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/WPF从小白到大佬：模板.md",
+                "file": "C#/WPF从小白到大佬.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/WPF从小白到大佬：模板.md"
+                "file": "C#/WPF从小白到大佬.md"
               }
             }
           },
@@ -143,7 +142,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "6adb3fb9a5c6f5dd",
@@ -155,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C#/WPF从小白到大佬：模板.md",
+                "file": "C#/WPF从小白到大佬.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -213,53 +213,53 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "bfed0ade46ad9352",
+  "active": "80e6dab0c559093f",
   "lastOpenFiles": [
-    "C#/WPF从小白到大佬：模板：：Button的模板样式实战.md",
-    "C#/assets/WPF从小白到大佬：模板：：Button的模板样式实战/5245268f7f11ea048fdbb8cf91067852_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：模板：：Button的模板样式实战",
-    "C#/WPF从小白到大佬：模板.md",
-    "C#/WPF从小白到大佬：模板：：ListBox模板样式实战.md",
-    "C#/assets/WPF从小白到大佬：模板：：ListBox模板样式实战/b0692680601725fafe4da8baac8a0c73_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：模板：：ListBox模板样式实战",
-    "C#/WPF从小白到大佬：模板：：ListBox的ItemContainerStyle.md",
-    "C#/assets/WPF从小白到大佬：模板：：ListBox的ItemContainerStyle/52db1605001e196ded75ae973345c010_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：模板：：ListBox的ItemContainerStyle/923b6cfac5092e5a33ff77e6f8fadb7b_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：模板：：ListBox的ItemContainerStyle/b65ed444288499392dfbe6cf76aa3480_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：模板：：ListBox的ItemContainerStyle",
-    "C#/WPF从小白到大佬：模板：：ItemsPanelTempate元素模板.md",
-    "C#/assets/WPF从小白到大佬：模板：：ItemsPanelTempate元素模板/6e3b2b96e0404c1327143203bd91921c_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：模板：：ItemsPanelTempate元素模板",
-    "C#/WPF从小白到大佬：模板：：DataTemplate数据模板.md",
-    "C#/assets/WPF从小白到大佬：模板：：DataTemplate数据模板/77e0ab4ba6061ec25a557ae267a6c1f4_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：模板：：DataTemplate数据模板/27b73391355114157c81448ad83c649d_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：模板：：DataTemplate数据模板",
-    "C#/WPF从小白到大佬：模板：：TemplateBinding模板绑定.md",
-    "C#/assets/WPF从小白到大佬：模板：：TemplateBinding模板绑定/ce87ddf6933ab49f04060bbfda3b8e3b_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：模板：：TemplateBinding模板绑定/b71bc93f24ca0340896b2ba6a0e757ed_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：模板：：TemplateBinding模板绑定",
-    "C#/WPF从小白到大佬：模板：：ControlTemplate的触发器.md",
-    "C#/assets/WPF从小白到大佬：模板：：ControlTemplate的触发器",
-    "C#/WPF从小白到大佬：模板：：ControlTemplate控件模板.md",
-    "C#/assets/WPF从小白到大佬：模板：：ControlTemplate控件模板",
-    "C#/WPF从小白到大佬：模板：：LogicalTree逻辑树.md",
-    "C#/WPF从小白到大佬：模板：：VisualTree可视化树.md",
-    "C#/assets/WPF从小白到大佬：模板：：VisualTree可视化树",
+    "C#/WPF从小白到大佬：命令.md",
+    "C#/WPF从小白到大佬：命令：：ReactiveUI之ReactiveCommand.md",
+    "C.md",
+    "C#/assets/WPF从小白到大佬：命令：：ReactiveUI之ReactiveCommand/00ecfd36822b0198393742be61a87658_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：命令：：ReactiveUI之ReactiveCommand/fcc1dd3c656c37ac430a2abac453eea6_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：命令：：ReactiveUI之ReactiveCommand",
+    "C#/WPF从小白到大佬：命令：：Prism之DelegateCommand.md",
+    "C#/assets/WPF从小白到大佬：命令：：Prism之DelegateCommand/c5eee9095741b8060931d34154af02db_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：命令：：Prism之DelegateCommand/f023011263454f7897546b7da2061451_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：命令：：Prism之DelegateCommand/0661297cf1fc7735c4f52feaf4b84659_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：命令：：Prism之DelegateCommand/5b87f0d534b5c8dda0b3f1553649679a_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：命令：：Prism之DelegateCommand",
+    "C#/WPF从小白到大佬：命令：：Mvvmlight之RelayCommand.md",
+    "C#/assets/WPF从小白到大佬：命令：：Mvvmlight之RelayCommand/79a7e9d1a2e2b698a461f30ff5f371ee_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：命令：：Mvvmlight之RelayCommand/a21000dc445a4ab5222eebe05456329f_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：命令：：Mvvmlight之RelayCommand/ad2c244da6fd7c03d49479f31f566024_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：命令：：Mvvmlight之RelayCommand/da519e3c151ae92de5065063fbadf702_MD5.jpg",
+    "C#/assets/WPF从小白到大佬：命令：：Mvvmlight之RelayCommand",
+    "C#/WPF从小白到大佬：命令：：WPF事件转Command命令.md",
+    "Welcome.md",
+    "C#/Csharp.md",
+    "C#/Csharp程序设计自学经典.md",
+    "C#/Csharp程序设计自学经典/Csharp程序设计自学经典：第4章 数组与集合、结构与枚举的应用.md",
+    "C#/Csharp程序设计自学经典/Csharp程序设计自学经典：第1章 从零认识Csharp.md",
+    "第9章 WinForm应用程序开发基础.md",
+    "C#/WPF从小白到大佬/WPF从小白到大佬：控件父类：：FrameworkElement类.md",
+    "C#/assets/WPF从小白到大佬：命令：：WPF事件转Command命令",
+    "C#/WPF从小白到大佬：命令：：ApplicationCommands命令实战.md",
+    "C#/assets/WPF从小白到大佬：命令：：ApplicationCommands命令实战",
+    "C#/WPF从小白到大佬：命令：：CommandBinding命令绑定.md",
+    "C#/assets/WPF从小白到大佬：命令：：CommandBinding命令绑定",
+    "C#/WPF从小白到大佬：命令：：RoutedUICommand预定义命令.md",
+    "C#/WPF从小白到大佬：命令：：ICommand接口.md",
+    "C#/assets/WPF从小白到大佬：命令：：ICommand接口",
+    "C#/WPF从小白到大佬：命令：：ICommandSource命令源.md",
+    "C#/WPF从小白到大佬：命令：：什么是命令.md",
     "C#/WPF从小白到大佬.md",
-    "C#/WPF从小白到大佬：集合控件.md",
-    "C#/WPF从小白到大佬：集合控件：：TabControl控件.md",
-    "C#/assets/WPF从小白到大佬：模板：：LogicalTree逻辑树",
-    "C#/WPF从小白到大佬：模板：：什么是模板.md",
-    "C#/WPF从小白到大佬：样式.md",
-    "C#/WPF从小白到大佬：样式：：EventTrigger事件触发器.md",
-    "C#/WPF从小白到大佬：样式：：MultiDataTrigger数据触发器.md",
-    "C#/WPF从小白到大佬：样式：：DataTrigger数据触发器.md",
-    "C#/WPF从小白到大佬：样式：：MultiTrigger多条件触发器.md",
-    "C#/WPF从小白到大佬：样式：：Trigger触发器.md",
-    "C#/WPF从小白到大佬：样式：：ResourceDictionary资源字典.md",
-    "C#/WPF从小白到大佬：样式：：Resource资源.md",
-    "Python/python：获取文件夹或文件路径.md",
-    "C#/WPF从小白到大佬：样式：：WPF样式概述.md",
+    "脑梗、中风、卒中预防与治疗/治疗记录.md",
+    "脑梗、中风、卒中预防与治疗/assets/治疗记录",
+    "脑梗、中风、卒中预防与治疗/assets",
+    "脑梗、中风、卒中预防与治疗",
+    "VIM/VIM 快捷键.md",
+    "C#/WPF从小白到大佬：模板.md",
+    "C#/WPF从小白到大佬：模板：：Button的模板样式实战.md",
+    "C#/WPF从小白到大佬：模板：：ListBox模板样式实战.md",
     "未命名.canvas"
   ]
 }
