@@ -1,6 +1,7 @@
 FrameworkElement类继承于UIElement类，继承关系是：Object->DispatcherObject->DependencyObject->Visual->UIElement->FrameworkElement，它也是WPF控件的众多父类中最核心的基类，从这里开始，继承树开始分支，分别是Shape图形类、Control控件类和Panel布局类三个方向。
 
-![[C#/WPF从小白到大佬/WPF从小白到大佬：控件父类：：FrameworkElement类/6fbb357e3242781aadc559b84566df13_MD5.jpg]]
+[[assets/WPF从小白到大佬：控件父类：：FrameworkElement类/6fbb357e3242781aadc559b84566df13_MD5.jpeg|Open: Pasted image 20240305170244.png]]
+![[assets/WPF从小白到大佬：控件父类：：FrameworkElement类/6fbb357e3242781aadc559b84566df13_MD5.jpeg]]
 
 FrameworkElement类本质上也是提供了一系列属性、方法和事件。同时又扩展 UIElement 并添加了以下功能：
 

@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "2745d5e8ba42f09a",
+        "id": "069d330fb117d29b",
         "type": "tabs",
         "children": [
           {
-            "id": "80e6dab0c559093f",
+            "id": "7d2ec720115b9193",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/WPF从小白到大佬.md",
+                "file": "AI/Claude3-Chat.Imsys.org/Claude3：Chat.Imsys.org-ChatHistory-Job-Opportunity-KHS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c367e6c0a14d446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/python：property属性、with语句、生成器、深拷贝浅拷贝.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 313.5,
+    "collapsed": true
   },
   "right": {
     "id": "a7ca694595501634",
@@ -86,9 +101,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/WPF从小白到大佬.md",
+                "file": "Python/python：property属性、with语句、生成器、深拷贝浅拷贝.md",
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -103,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/WPF从小白到大佬.md",
+                "file": "Python/python：property属性、with语句、生成器、深拷贝浅拷贝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/WPF从小白到大佬.md"
+                "file": "Python/python：property属性、with语句、生成器、深拷贝浅拷贝.md"
               }
             }
           },
@@ -155,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C#/WPF从小白到大佬.md",
+                "file": "Python/python：property属性、with语句、生成器、深拷贝浅拷贝.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,14 +193,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.13168724279835453,
+                  "scale": 0.13168724279835467,
                   "close": true
                 }
               }
             }
           },
           {
-            "id": "c491a7ee07a7f26a",
+            "id": "20d0c88d09bf23f6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -213,53 +228,54 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "80e6dab0c559093f",
+  "active": "6c367e6c0a14d446",
   "lastOpenFiles": [
+    "AI/Claude3-Chat.Imsys.org/Claude3：Chat.Imsys.org-ChatHistory-Job-Opportunity-KHS.md",
+    "AI/Claude3-Chat.Imsys.org/Claude3：Chat.Imsys.org.md",
+    "AI/AI.md",
+    "AI/Main History--Job Opportunities.md",
+    "AI/Claude3-Chat.Imsys.org/assets",
+    "Welcome.md",
+    "AI/Claude3-POE/Claude3：POE-ChatHistory-Job Opportunity-KHS.md",
+    "AI/Claude3-POE/Claude3：POE.md",
+    "AI/Claude3-Chat.Imsys.org",
+    "AI/Claude3-POE",
+    "AI",
+    "C#/WPF从小白到大佬：命令：：Prism之DelegateCommand.md",
     "C#/WPF从小白到大佬：命令.md",
     "C#/WPF从小白到大佬：命令：：ReactiveUI之ReactiveCommand.md",
-    "C.md",
-    "C#/assets/WPF从小白到大佬：命令：：ReactiveUI之ReactiveCommand/00ecfd36822b0198393742be61a87658_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：命令：：ReactiveUI之ReactiveCommand/fcc1dd3c656c37ac430a2abac453eea6_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：命令：：ReactiveUI之ReactiveCommand",
-    "C#/WPF从小白到大佬：命令：：Prism之DelegateCommand.md",
-    "C#/assets/WPF从小白到大佬：命令：：Prism之DelegateCommand/c5eee9095741b8060931d34154af02db_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：命令：：Prism之DelegateCommand/f023011263454f7897546b7da2061451_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：命令：：Prism之DelegateCommand/0661297cf1fc7735c4f52feaf4b84659_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：命令：：Prism之DelegateCommand/5b87f0d534b5c8dda0b3f1553649679a_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：命令：：Prism之DelegateCommand",
-    "C#/WPF从小白到大佬：命令：：Mvvmlight之RelayCommand.md",
-    "C#/assets/WPF从小白到大佬：命令：：Mvvmlight之RelayCommand/79a7e9d1a2e2b698a461f30ff5f371ee_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：命令：：Mvvmlight之RelayCommand/a21000dc445a4ab5222eebe05456329f_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：命令：：Mvvmlight之RelayCommand/ad2c244da6fd7c03d49479f31f566024_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：命令：：Mvvmlight之RelayCommand/da519e3c151ae92de5065063fbadf702_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：命令：：Mvvmlight之RelayCommand",
-    "C#/WPF从小白到大佬：命令：：WPF事件转Command命令.md",
-    "Welcome.md",
-    "C#/Csharp.md",
-    "C#/Csharp程序设计自学经典.md",
-    "C#/Csharp程序设计自学经典/Csharp程序设计自学经典：第4章 数组与集合、结构与枚举的应用.md",
-    "C#/Csharp程序设计自学经典/Csharp程序设计自学经典：第1章 从零认识Csharp.md",
-    "第9章 WinForm应用程序开发基础.md",
-    "C#/WPF从小白到大佬/WPF从小白到大佬：控件父类：：FrameworkElement类.md",
-    "C#/assets/WPF从小白到大佬：命令：：WPF事件转Command命令",
-    "C#/WPF从小白到大佬：命令：：ApplicationCommands命令实战.md",
-    "C#/assets/WPF从小白到大佬：命令：：ApplicationCommands命令实战",
-    "C#/WPF从小白到大佬：命令：：CommandBinding命令绑定.md",
-    "C#/assets/WPF从小白到大佬：命令：：CommandBinding命令绑定",
-    "C#/WPF从小白到大佬：命令：：RoutedUICommand预定义命令.md",
-    "C#/WPF从小白到大佬：命令：：ICommand接口.md",
-    "C#/assets/WPF从小白到大佬：命令：：ICommand接口",
-    "C#/WPF从小白到大佬：命令：：ICommandSource命令源.md",
-    "C#/WPF从小白到大佬：命令：：什么是命令.md",
     "C#/WPF从小白到大佬.md",
-    "脑梗、中风、卒中预防与治疗/治疗记录.md",
-    "脑梗、中风、卒中预防与治疗/assets/治疗记录",
-    "脑梗、中风、卒中预防与治疗/assets",
-    "脑梗、中风、卒中预防与治疗",
-    "VIM/VIM 快捷键.md",
-    "C#/WPF从小白到大佬：模板.md",
-    "C#/WPF从小白到大佬：模板：：Button的模板样式实战.md",
-    "C#/WPF从小白到大佬：模板：：ListBox模板样式实战.md",
+    "C#/Csharp.md",
+    "C#/WPF从小白到大佬：内容控件：：CheckBox复选框.md",
+    "C#/WPF从小白到大佬：集合控件：：Menu菜单.md",
+    "C#/WPF从小白到大佬：集合控件：：ItemsControl基类.md",
+    "C#/WPF从小白到大佬：集合控件：：Datagrid数据表格控件.md",
+    "C#/WPF从小白到大佬：集合控件：：ComboBox下拉框控件.md",
+    "C#/WPF从小白到大佬：集合控件.md",
+    "C#/WPF从小白到大佬：内容控件.md",
+    "C#/WPF从小白到大佬：内容控件：：ContentControl类（内容控件）.md",
+    "C.md",
+    "C#/WPF从小白到大佬/WPF从小白到大佬：控件父类：：FrameworkElement类.md",
+    "C#/WPF从小白到大佬/assets/WPF从小白到大佬：控件父类：：FrameworkElement类/6fbb357e3242781aadc559b84566df13_MD5.jpeg",
+    "C#/WPF从小白到大佬/assets/Pasted image 20240305170244.png",
+    "Python/Python王者归来.md",
+    "Python/python：MySQL高级进阶.md",
+    "Python/assets/python：MySQL高级进阶/2c759d820be1dd4724a6ef95be856877_MD5.jpeg",
+    "Python/assets/Pasted image 20240305141841.png",
+    "Python/assets/python：MySQL高级进阶/43789ca32262038aa4821c1a3ee0b214_MD5.jpeg",
+    "Python/assets/Pasted image 20240305141811.png",
+    "Python/assets/python：MySQL高级进阶/84dbd77847ac18abb47b81450fbe5691_MD5.jpeg",
+    "Python/assets/Pasted image 20240305141800.png",
+    "Python/assets/python：MySQL高级进阶/fe09915125e5c5a8a37e2eb387866c15_MD5.jpeg",
+    "Python/assets/Pasted image 20240305141751.png",
+    "Python/python：MySQL数据库基础.md",
+    "Python/assets/python：MySQL数据库基础",
+    "Python/python：闭包、装饰器.md",
+    "Python/assets/python：闭包、装饰器",
+    "C#/assets/WPF从小白到大佬：命令：：ReactiveUI之ReactiveCommand",
+    "C#/assets/WPF从小白到大佬：命令：：Prism之DelegateCommand",
+    "C#/assets/WPF从小白到大佬：命令：：Mvvmlight之RelayCommand",
+    "C#/assets/WPF从小白到大佬：命令：：WPF事件转Command命令",
     "未命名.canvas"
   ]
 }
