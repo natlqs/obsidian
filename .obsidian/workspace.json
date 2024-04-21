@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e16d7d79811219d7",
+        "id": "774c1958780e26bf",
         "type": "tabs",
         "children": [
           {
-            "id": "304726b262389e4b",
+            "id": "3fbb99a26ee510d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/WPF从小白到大佬.md",
+                "file": "TalkShow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/WPF从小白到大佬.md",
+                "file": "TalkShow.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/WPF从小白到大佬.md",
+                "file": "TalkShow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/WPF从小白到大佬.md"
+                "file": "TalkShow.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C#/WPF从小白到大佬.md",
+                "file": "TalkShow.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,15 +214,17 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "304726b262389e4b",
+  "active": "3fbb99a26ee510d2",
   "lastOpenFiles": [
-    "C#/Csharp.md",
     "Welcome.md",
+    "TalkShow.md",
+    "mojo.md",
+    "C#/WPF从小白到大佬.md",
+    "C#/Csharp.md",
     "Krones/Krones Orders.md",
     "Krones/Krones：Software.md",
     "Krones/assets/Krones：Software/df8c0965910245ca6f8dd70668f714ad_MD5.jpg",
     "Krones/assets",
-    "C#/WPF从小白到大佬.md",
     "Krones/assets/Krones：Software",
     "Krones",
     "C#/WPF从小白到大佬：动画.md",
@@ -260,8 +262,6 @@
     "C#/WPF从小白到大佬：内容控件.md",
     "C#/WPF从小白到大佬：内容控件：：RepeatButton重复按钮.md",
     "Python/Python：实用技巧.md",
-    "Python/python：property属性、with语句、生成器、深拷贝浅拷贝.md",
-    "C#/WPF从小白到大佬/WPF从小白到大佬：前言：：WPF起源.md",
     "未命名.canvas"
   ]
 }
