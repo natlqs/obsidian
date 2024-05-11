@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "774c1958780e26bf",
+        "id": "51fa159037ba9126",
         "type": "tabs",
         "children": [
           {
-            "id": "3fbb99a26ee510d2",
+            "id": "42ca97646a949928",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TalkShow.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TalkShow.md",
+                "file": "VPN/自建SS服务器教程.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TalkShow.md",
+                "file": "VPN/自建SS服务器教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TalkShow.md"
+                "file": "VPN/自建SS服务器教程.md"
               }
             }
           },
@@ -155,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TalkShow.md",
+                "file": "VPN/自建SS服务器教程.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5,
-    "collapsed": true
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,57 +205,58 @@
       "omnisearch:Omnisearch": false,
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
       "command-palette:打开命令面板": false,
-      "graph:查看关系图谱": false
+      "graph:查看关系图谱": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "vscode-editor:新建代码文件": false
     }
   },
-  "active": "3fbb99a26ee510d2",
+  "active": "ef31b015078704d0",
   "lastOpenFiles": [
+    "VPN/VPN.md",
     "Welcome.md",
+    "Rust.md",
+    "VPN/自建SS服务器教程.md",
+    "VPN/assets/自建SS服务器教程/c1b5e3faed47a15859cba157cde86a58_MD5.jpg",
+    "VPN/assets/自建SS服务器教程/9ce755a8207814b618455b1d682fa59b_MD5.jpg",
+    "VPN/assets/自建SS服务器教程/c87494872aea3f0f706a0849ce8a7132_MD5.jpg",
+    "VPN/assets/自建SS服务器教程/798881f5c2ba065208d4643e72723fd8_MD5.jpg",
+    "VPN/assets/自建SS服务器教程/e85d2395df6e1fbef872f76ae69ba877_MD5.jpg",
+    "VPN/assets/自建SS服务器教程/d0310a04bd5dd051a3ca0269f0eb0fd4_MD5.jpg",
+    "VPN/assets/自建SS服务器教程/e6354f94bc7a10165ca3cb4501be1cc9_MD5.jpg",
+    "VPN/assets/自建SS服务器教程/04be469b20b925f3f82508ada75d8b4a_MD5.jpg",
+    "VPN/assets/自建SS服务器教程/8303c43dc2fe8c5c84ac7944bf0be5f9_MD5.jpg",
+    "VPN/assets/自建SS服务器教程/c439fd46e46fc6dbaf8ffe586977cf44_MD5.jpg",
+    "VPN/assets/自建SS服务器教程",
+    "VPN/assets",
+    "VPN",
     "TalkShow.md",
+    "rust.rs.md",
+    "SSR.md",
+    "新建文本文档.txt",
+    "Linux/Deepin 23v3配置.md",
+    "assets/SSR",
+    "Linux/Linux.md",
     "mojo.md",
     "C#/WPF从小白到大佬.md",
     "C#/Csharp.md",
     "Krones/Krones Orders.md",
     "Krones/Krones：Software.md",
-    "Krones/assets/Krones：Software/df8c0965910245ca6f8dd70668f714ad_MD5.jpg",
     "Krones/assets",
     "Krones/assets/Krones：Software",
     "Krones",
     "C#/WPF从小白到大佬：动画.md",
     "C#/WPF从小白到大佬：动画：：关键帧动画.md",
     "C#/WPF从小白到大佬：动画：：在Style样式中使用动画.md",
-    "C#/assets/WPF从小白到大佬：动画：：在Style样式中使用动画/b40fbd46f77373e2caf8e2d74deea4b4_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：动画：：在Style样式中使用动画/f5c41fe510e40aee881761ed9cbc90e0_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：动画：：在Style样式中使用动画/99ba708c723d0bb15c3dad51d35c4f4d_MD5.jpg",
     "C#/assets/WPF从小白到大佬：动画：：在Style样式中使用动画",
     "C#/WPF从小白到大佬：动画：：什么是路径动画.md",
-    "C#/assets/WPF从小白到大佬：动画：：什么是路径动画/e8721fce55888b6996f7a824fa45260b_MD5.jpg",
     "C#/assets/WPF从小白到大佬：动画：：什么是路径动画",
     "C#/WPF从小白到大佬：动画：：在Csharp代码中使用关键帧动画.md",
-    "C#/assets/WPF从小白到大佬：动画：：在Csharp代码中使用关键帧动画/46a3b01073a30efc747190f6b718ad4e_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：动画：：在Csharp代码中使用关键帧动画/e8f708867e78578bc292d14df5e1ce56_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：动画：：在Csharp代码中使用关键帧动画",
-    "C#/assets/WPF从小白到大佬：动画：：关键帧动画/17d20b875bfb1f803ddd3370b98a5dd5_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：动画：：关键帧动画/3fd23bc32e22da9137f856ae4884782e_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：动画：：关键帧动画",
     "C#/WPF从小白到大佬：动画：：在Csharp代码中使用动画.md",
-    "C#/assets/WPF从小白到大佬：动画：：在Csharp代码中使用动画/4bf2b066c7a07bc13431ae1cef835587_MD5.jpg",
-    "C#/assets/WPF从小白到大佬：动画：：在Csharp代码中使用动画",
     "C#/WPF从小白到大佬：动画：：DoubleAnimation动画.md",
-    "C#/assets/WPF从小白到大佬：动画：：DoubleAnimation动画",
     "C#/WPF从小白到大佬：动画：：什么是动画.md",
-    "C#/assets/WPF从小白到大佬：动画：：什么是动画",
     "C#/WPF从小白到大佬：依赖属性.md",
     "C#/WPF从小白到大佬：依赖属性：：什么是依赖属性.md",
     "C#/WPF从小白到大佬：依赖属性：：PasswordBox与附加属性实战.md",
-    "C#/WPF从小白到大佬：依赖属性：：什么是附加属性.md",
-    "C#/WPF从小白到大佬：依赖属性：：依赖属性的回调函数.md",
-    "C#/WPF从小白到大佬：依赖属性：：DependencyProperty定义使用.md",
-    "C#/WPF从小白到大佬：模板.md",
-    "C#/WPF从小白到大佬：命令.md",
-    "C#/WPF从小白到大佬：内容控件.md",
-    "C#/WPF从小白到大佬：内容控件：：RepeatButton重复按钮.md",
-    "Python/Python：实用技巧.md",
     "未命名.canvas"
   ]
 }
